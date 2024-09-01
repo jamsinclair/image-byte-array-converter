@@ -176,7 +176,7 @@ export function App() {
           </div>
         </div>
         <footer className="font-mono py-4">
-          <p className="block">Made with 💛 on <a className="font-bold hover:underline" href="https://github.com/jamsinclair/cyd-image-byte-array-converter">@GitHub</a></p>
+          <p className="block">Made with 💛 on <a className="font-bold hover:underline" href="https://github.com/jamsinclair/image2bytearray">@GitHub</a></p>
         </footer>
       </div>
     </main>
